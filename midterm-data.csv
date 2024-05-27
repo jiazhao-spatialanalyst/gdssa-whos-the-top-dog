@@ -1,0 +1,195 @@
+affection,good_with_young_children,good_with_other_dogs,shedding,grooming_needs,drool,coat_type,coat_length,openness_to_strangers,playfulness,protectiveness,adaptability,trainability_level,energy,barking,mental_stimulation_needs,breed_clean,popularity,editors_choice
+5,3,3,3,1,1,Smooth,Short,3,4,4,3,5,5,3,4,German Pinschers,0.792650140594284,1
+5,5,5,5,3,3,Double,Medium,4,4,3,4,4,4,3,3,Bernese Mountain Dogs,0.9229236146420572,1
+5,3,5,3,2,2,Smooth,Short,4,4,3,4,5,4,3,4,Pointers,0.8262780821389399,0
+5,5,5,3,2,2,Smooth,Medium,5,5,3,5,5,5,3,4,Retrievers (Flat-Coated),0.8366604293157021,0
+5,5,3,2,3,2,Wiry,Medium,5,4,4,4,4,4,4,4,Welsh Terriers,0.8252182944851224,0
+5,3,3,1,5,2,Corded,Long,3,3,5,4,5,3,3,5,Pulik,0.7609857830502057,0
+5,4,3,4,2,2,Double,Medium,4,3,3,4,4,3,5,3,Finnish Lapphunds,0.6292750337780574,1
+5,3,5,2,1,1,Wiry,Short,3,4,3,4,3,5,3,5,Ibizan Hounds,0.605393222863405,0
+5,5,5,4,2,2,Double,Short,5,5,3,5,5,5,3,4,Retrievers (Labrador),0.9660695611533628,1
+1,3,3,3,2,1,Smooth,Short,1,3,5,3,2,3,3,3,Anatolian Shepherd Dogs,0.8666634141388609,0
+5,3,3,3,1,3,Smooth,Short,3,4,5,4,5,3,1,5,Rottweilers,0.917287050873038,1
+4,5,3,2,2,3,Smooth,Short,4,4,4,3,4,4,3,4,Boxers,0.9202712408106738,0
+5,5,5,3,3,2,Double,Medium,3,4,3,4,3,3,2,3,English Toy Spaniels,0.7245843342138424,0
+5,3,4,4,2,1,Double,Short,4,4,5,4,4,4,4,4,Pembroke Welsh Corgis,0.9677904024852184,0
+3,3,3,1,3,1,Curly,Medium,3,3,4,3,3,4,3,3,Bedlington Terriers,0.7680772761696595,0
+4,3,3,1,2,1,Hairless,Short,4,3,3,4,4,3,3,3,Chinese Crested,0.8614177582959249,0
+5,4,4,3,3,3,Double,Medium,4,4,3,4,4,3,3,4,Setters (English),0.842245081139475,0
+4,5,3,2,2,1,Wiry,Short,4,4,3,4,4,3,3,3,Border Terriers,0.8244211842544658,0
+3,3,3,3,2,1,Double,Short,3,3,3,3,3,3,3,3,Norwegian Lundehunds,0.3179853109167327,0
+3,3,5,3,2,2,Smooth,Short,3,3,2,3,4,4,4,3,Bluetick Coonhounds,0.7278756692418914,1
+3,5,5,3,3,1,Double,Medium,3,4,3,4,4,4,3,3,Spaniels (Boykin),0.8531720588998939,0
+5,3,3,2,1,1,Smooth,Short,4,3,5,3,3,3,3,3,American Staffordshire Terriers,0.8455224276025005,0
+4,3,1,3,2,1,Smooth,Short,4,4,3,3,3,4,3,4,Bull Terriers,0.9345670442070542,0
+5,5,3,2,2,3,Smooth,Short,4,4,5,5,5,4,3,4,Staffordshire Bull Terriers,0.8799563332146977,1
+5,5,5,2,2,2,Wavy,Medium,4,3,3,3,4,3,3,3,Cavalier King Charles Spaniels,0.976507825768236,0
+5,5,3,3,2,3,Wiry,Medium,5,4,3,4,5,5,3,5,Wirehaired Pointing Griffons,0.9198000580828258,0
+5,5,3,3,1,4,Double,Short,3,3,5,4,3,3,1,3,Mastiffs,0.9037238347656836,0
+5,3,2,2,3,2,Wiry,Medium,3,4,5,4,3,3,4,4,Scottish Terriers,0.879829459730399,0
+5,5,3,3,4,2,Wiry,Medium,3,4,4,5,5,3,5,4,Miniature Schnauzers,0.9626676795703942,1
+5,5,3,2,2,1,Wavy,Long,3,4,4,4,4,3,3,3,Lowchen,0.6912009936736381,0
+4,3,3,3,2,4,Wavy,Medium,4,3,3,4,4,3,1,3,Spaniels (Clumber),0.8025606802500671,0
+5,3,5,3,2,1,Wiry,Short,5,5,4,4,3,5,4,5,Russell Terriers,0.9103084028991024,1
+5,3,2,1,4,2,Corded,Long,3,3,5,3,4,3,3,3,Komondorok,0.5462174848511208,0
+5,5,3,3,3,1,Double,Long,5,5,4,4,4,4,5,4,Samoyeds,0.8828001385079285,0
+5,4,3,1,4,2,Corded,Medium,3,4,3,3,4,4,3,5,Spanish Water Dogs,0.7367636188435701,0
+5,5,3,2,1,1,Double,Short,3,4,4,4,4,4,3,3,Retrievers (Curly-Coated),0.6624522873787838,0
+5,3,4,3,1,1,Smooth,Short,3,4,5,4,3,5,5,5,Miniature Pinschers,0.8717459882086998,1
+4,3,3,3,3,3,Smooth,Short,4,4,3,3,4,3,2,3,Bulldogs,0.9605975354709548,0
+5,3,3,1,2,2,Curly,Medium,3,4,4,4,5,5,3,5,Pumik,0.6742007532367216,0
+3,5,3,3,2,1,Double,Medium,3,4,3,3,5,5,3,5,Australian Shepherds,0.9324807296736336,0
+4,3,3,3,1,3,Smooth,Short,3,3,4,4,3,3,3,3,Chinese Shar-Pei,0.92495616923595,0
+5,3,3,3,3,3,Double,Medium,3,4,3,4,4,3,3,3,Spaniels (Sussex),0.6425734369750892,0
+3,3,3,3,1,1,Wiry,Medium,3,3,4,3,4,4,2,4,Berger Picards,0.7514748904930856,1
+5,5,4,2,2,1,Smooth,Short,5,5,3,3,4,4,2,3,Boston Terriers,0.9147334419151696,1
+4,5,5,3,3,1,Smooth,Medium,3,3,4,4,4,3,5,3,Chinooks,0.5075740013153693,0
+4,5,5,1,3,1,Curly,Medium,3,3,3,3,4,3,3,3,Barbets,0.718112693921473,0
+5,5,4,3,2,2,Smooth,Short,4,5,3,5,5,5,3,5,Vizslas,0.9687751070287228,1
+5,3,3,4,1,3,Smooth,Short,4,4,5,4,5,5,3,4,Dogo Argentinos,0.8472831314326965,1
+4,3,3,3,1,3,Smooth,Short,3,3,5,3,4,4,1,4,Bullmastiffs,0.939464390851801,0
+5,5,3,3,2,1,Smooth,Short,5,5,4,4,5,4,3,5,Rat Terriers,0.8560486979557397,0
+3,3,1,3,3,1,Double,Medium,2,3,5,3,3,4,2,3,Akitas,0.9417034685402618,0
+5,3,3,2,3,2,Wiry,Medium,3,3,3,4,3,3,2,3,Glen of Imaal Terriers,0.6519651294112908,1
+5,3,3,3,2,4,Double,Medium,3,3,4,4,5,5,3,4,Setters (Gordon),0.8620161623309287,0
+5,3,3,2,2,1,Wiry,Short,3,4,3,4,3,3,3,4,Lakeland Terriers,0.7816667440678842,0
+3,3,3,4,2,1,Smooth,Short,3,3,4,3,4,3,5,3,Canaan Dogs,0.5302973290718758,0
+5,3,3,3,2,2,Double,Medium,4,4,5,4,4,4,4,4,Norwegian Elkhounds,0.8762973997372941,1
+3,5,3,1,2,1,Wiry,Short,3,4,4,3,4,4,5,4,Australian Terriers,0.7794225936495716,0
+4,3,3,3,1,1,Smooth,Short,2,3,2,3,3,4,2,3,Sloughis,0.4650593445297679,0
+4,3,3,4,3,3,Double,Medium,1,3,5,3,3,3,3,4,Tibetan Mastiffs,0.7250057950809891,0
+4,3,3,2,1,3,Smooth,Short,3,3,5,3,4,4,3,3,Cane Corso,0.9656691026069776,0
+5,5,5,3,1,2,Double,Short,4,4,3,4,4,4,5,4,English Foxhounds,0.3781556935002825,0
+5,5,5,2,3,1,Double,Long,5,5,3,5,4,3,4,3,Havanese,0.9081658711343876,1
+5,5,5,3,3,2,Double,Medium,4,3,3,4,4,3,3,4,Spaniels (English Cocker),0.921035907973751,0
+5,3,3,1,3,1,Silky,Long,3,3,5,5,3,3,3,3,Lhasa Apsos,0.8481149568060057,1
+5,3,5,3,2,1,Smooth,Short,3,3,3,3,4,4,3,4,Pharaoh Hounds,0.5879474979982671,0
+5,3,5,3,1,1,Wiry,Medium,3,3,3,3,3,3,1,3,Scottish Deerhounds,0.657503095248814,0
+5,5,3,4,2,2,Double,Medium,3,4,5,5,5,5,3,5,German Shepherd Dogs,0.995782399431164,1
+3,3,3,1,4,2,Double,Long,3,3,4,3,3,3,1,3,Briards,0.71533440090703,1
+4,3,2,3,3,3,Smooth,Medium,2,3,5,3,3,3,1,3,Chow Chows,0.8395494683682558,0
+4,3,3,2,2,1,Wiry,Medium,3,4,4,3,3,3,4,3,Cairn Terriers,0.9179741639918472,0
+5,5,3,3,2,2,Smooth,Short,3,3,5,4,4,3,2,4,Rhodesian Ridgebacks,0.912029555810106,0
+5,5,5,1,5,1,Double,Long,5,4,2,4,4,4,3,3,Bichons Frises,0.9265209732994492,0
+5,3,4,3,2,3,Double,Medium,4,4,3,4,5,4,3,4,Spaniels (English Springer),0.9459640359879392,1
+5,3,3,3,4,2,Wiry,Medium,3,4,5,4,5,5,3,4,Giant Schnauzers,0.8972881517404067,0
+5,5,3,3,2,3,Smooth,Short,5,4,4,3,4,4,3,4,Greater Swiss Mountain Dogs,0.849262042291186,1
+5,5,5,3,2,5,Double,Medium,5,3,5,4,3,3,1,3,Newfoundlands,0.9566174339799516,1
+5,3,4,3,2,3,Wiry,Medium,3,3,3,3,4,3,2,3,Spinoni Italiani,0.8247697482815328,1
+5,3,3,3,3,2,Double,Long,3,3,4,4,3,4,3,4,Tibetan Terriers,0.8253085522272451,0
+4,5,5,3,4,1,Silky,Long,4,4,3,4,3,4,5,3,Bearded Collies,0.8231821119403278,0
+5,3,3,3,3,1,Double,Medium,4,5,3,5,5,5,4,5,Border Collies,0.9161201886111708,0
+5,5,3,1,4,1,Curly,Long,5,5,5,4,5,4,4,5,Poodles,0.9608623311497224,1
+4,1,3,2,1,1,Smooth,Short,2,4,4,4,3,4,5,3,Chihuahuas,0.9120735266719356,1
+3,5,5,3,1,1,Smooth,Short,3,3,3,3,3,4,5,3,American Foxhounds,0.3662662625846229,0
+0,0,0,0,0,0,Smooth,Short,0,0,0,0,0,0,0,0,Plott Hounds,0.6392113942502752,0
+5,5,5,3,3,1,Double,Long,2,5,5,5,5,4,5,4,Shetland Sheepdogs,0.9075605246759074,0
+5,3,4,3,2,2,Wiry,Medium,3,3,5,3,3,3,1,3,Irish Wolfhounds,0.8455397067788701,0
+5,3,3,3,2,1,Smooth,Short,5,4,5,4,5,4,4,4,Toy Fox Terriers,0.8337289673587175,0
+5,3,3,1,4,1,Silky,Long,3,3,4,4,3,3,3,3,Maltese,0.8967646133644103,0
+5,5,5,3,1,3,Smooth,Short,3,4,3,4,5,5,4,5,Treeing Walker Coonhounds,0.6975799913770934,0
+5,3,3,3,2,1,Double,Medium,3,3,4,4,3,4,4,4,Norwegian Buhunds,0.6562429670119024,0
+5,3,3,3,2,2,Double,Medium,3,3,5,4,5,3,3,3,Kuvaszok,0.6153334963868294,1
+4,5,5,3,2,3,Smooth,Short,3,3,2,4,3,3,4,3,Black and Tan Coonhounds,0.8146687715943798,0
+5,4,2,3,2,3,Smooth,Short,3,3,5,3,4,3,3,4,Boerboels,0.7930339606736165,0
+5,5,4,2,4,2,Curly,Long,4,5,4,5,5,5,3,5,Portuguese Water Dogs,0.9113825295950592,0
+5,4,3,2,2,1,Smooth,Short,3,4,4,4,4,4,4,3,Manchester Terriers,0.7565015951400316,0
+4,3,3,3,2,5,Smooth,Short,3,3,2,3,4,3,5,3,Bloodhounds,0.9215182557363684,0
+5,5,5,2,2,2,Double,Medium,5,3,3,5,5,5,3,3,Setters (Irish Red and White),0.6676264369571735,0
+5,3,3,2,2,3,Rough,Medium,4,3,3,4,4,3,5,3,Otterhounds,0.5773889345839678,0
+5,3,3,2,2,2,Wiry,Medium,4,4,3,4,5,5,3,4,Pointers (German Wirehaired),0.9259092262781128,1
+3,4,4,3,3,1,Double,Short,3,4,3,3,5,5,3,4,Brittanys,0.9083404915733414,0
+5,5,5,4,2,1,Double,Medium,5,5,1,4,3,5,5,4,Siberian Huskies,0.9146718310106003,1
+3,3,3,3,1,1,Smooth,Short,3,3,4,3,4,5,1,4,Australian Cattle Dogs,0.9469469325710984,1
+4,4,3,3,2,1,Double,Medium,4,4,3,3,4,4,5,4,Cardigan Welsh Corgis,0.8758032394716394,0
+5,5,3,3,2,1,Wiry,Short,5,4,4,4,3,4,4,4,Norfolk Terriers,0.8120535480754318,0
+5,5,3,4,2,2,Double,Short,3,4,3,4,4,4,3,4,Swedish Vallhunds,0.7686352652112992,0
+4,3,3,3,3,2,Wiry,Medium,3,3,4,4,5,4,3,4,Retrievers (Chesapeake Bay),0.8898441164568458,1
+5,5,5,2,1,1,Smooth,Short,3,4,3,3,3,4,1,4,Whippets,0.9139063065895356,1
+5,5,3,1,3,3,Wiry,Medium,3,4,5,4,5,3,3,5,Standard Schnauzers,0.8241399097104021,1
+5,5,5,3,1,2,Double,Short,4,4,3,4,4,4,5,4,Harriers,0.4109131758482071,0
+4,5,3,2,2,1,Wavy,Medium,4,3,3,4,3,3,3,3,Cesky Terriers,0.4519385096583295,0
+5,3,3,3,2,2,Smooth,Medium,3,5,5,4,5,5,4,5,Pyrenean Shepherds,0.526133702174763,0
+3,3,3,2,1,1,Smooth,Short,3,3,3,3,2,4,1,4,Basenjis,0.8323021833728195,0
+5,3,3,2,3,1,Double,Long,3,3,4,4,3,3,4,3,Pomeranians,0.9289680820148646,0
+3,3,3,3,2,1,Double,Medium,3,3,4,3,5,4,3,4,Belgian Sheepdogs,0.8369763380126339,0
+5,5,3,3,3,1,Double,Medium,4,5,5,4,3,4,5,4,West Highland White Terriers,0.9510046451605212,0
+3,3,3,1,4,1,Silky,Long,3,3,3,3,1,4,3,3,Afghan Hounds,0.8282175176692295,0
+5,5,5,4,2,2,Double,Medium,5,4,3,5,5,3,1,4,Retrievers (Golden),1.0,0
+3,3,3,3,3,1,Double,Medium,3,3,4,3,5,4,3,3,Alaskan Malamutes,0.8554399526597517,0
+3,3,3,3,3,1,Wiry,Short,5,3,3,4,3,3,3,3,Affenpinschers,0.6722010914662832,0
+5,3,4,3,2,2,Wiry,Medium,5,4,3,4,3,5,4,4,Grand Basset Griffon Vendeens,0.4767867801155998,0
+3,3,3,1,3,1,Wiry,Short,3,3,5,3,3,3,3,3,Airedale Terriers,0.91734671423281,0
+5,5,4,3,2,2,Double,Medium,3,5,3,4,5,5,2,4,Retrievers (Nova Scotia Duck Tolling),0.8933532004564134,1
+5,3,3,3,3,1,Wiry,Medium,4,3,5,4,4,3,4,4,Sealyham Terriers,0.7179493894289892,0
+3,3,3,2,2,1,Smooth,Short,1,3,3,3,2,3,1,3,Azawakhs,0.3869766711677829,0
+3,5,5,3,2,1,Smooth,Short,3,4,2,4,3,4,4,4,Beagles,0.9329216117317686,0
+5,3,3,3,2,1,Smooth,Short,3,4,5,4,3,4,5,3,Fox Terriers (Smooth),0.7937333331264973,0
+3,3,3,3,2,5,Smooth,Short,3,2,5,3,3,2,1,3,Neapolitan Mastiffs,0.8740615252460476,0
+5,5,3,1,1,1,Hairless,Short,3,3,3,5,5,3,3,3,American Hairless Terriers,0.8168838668964928,0
+3,5,5,2,3,4,Smooth,Short,3,3,3,3,3,2,4,3,Basset Hounds,0.9033861153887268,0
+5,3,5,1,2,2,Double,Medium,4,4,3,4,4,4,2,4,Lagotti Romagnoli,0.8864414642587968,1
+3,3,5,2,1,1,Smooth,Short,3,3,3,3,3,4,4,3,American English Coonhounds,0.5261034184655738,0
+5,5,3,3,4,3,Double,Long,3,4,4,4,4,3,3,4,Old English Sheepdogs,0.91717808506226,1
+5,3,5,2,2,1,Smooth,Short,3,4,3,4,4,5,3,4,Parson Russell Terriers,0.806150796761063,0
+5,3,4,2,2,2,Smooth,Short,4,4,4,4,4,3,5,3,Dachshunds,0.9874275026966188,1
+5,5,3,3,3,1,Double,Medium,5,3,3,4,4,4,3,3,American Eskimo Dogs,0.8057150472389638,0
+5,5,3,4,1,2,Smooth,Short,4,4,5,4,5,5,3,4,Doberman Pinschers,0.9133383627474932,0
+5,5,3,3,2,1,Wiry,Short,5,4,4,4,3,4,4,4,Norwich Terriers,0.8591517609279858,0
+5,5,5,3,3,2,Double,Medium,3,4,3,4,5,5,3,5,Miniature American Shepherds,0.9509038839942004,0
+5,3,3,3,2,2,Double,Medium,4,3,3,4,5,4,3,4,Nederlandse Kooikerhondjes,0.6376941480273778,0
+5,5,4,3,1,3,Smooth,Short,5,5,3,5,4,3,1,3,French Bulldogs,0.9281579889002136,0
+5,5,5,3,3,2,Double,Long,5,5,5,5,5,4,4,4,Keeshonden,0.8866773259954682,0
+5,3,3,3,1,4,Smooth,Short,3,4,5,4,3,4,3,4,Great Danes,0.9404931527570222,1
+5,5,3,4,4,3,Double,Long,5,3,4,4,5,3,3,4,Leonbergers,0.8541211098429524,0
+4,3,4,2,1,1,Smooth,Short,3,3,3,4,3,4,3,3,Greyhounds,0.7319550239950383,0
+5,5,5,3,2,1,Wiry,Medium,3,4,3,4,3,4,3,4,Portuguese Podengo Pequenos,0.6569001476406648,1
+4,5,3,3,3,2,Smooth,Short,3,4,3,4,4,3,5,3,Collies,0.9530731813023936,0
+3,3,3,3,4,2,Rough,Medium,3,3,4,3,4,4,3,3,Bouviers des Flandres,0.8386230265244087,0
+3,3,3,4,3,1,Smooth,Short,2,3,4,3,3,5,3,3,Beaucerons,0.7746562934415869,0
+4,5,5,2,2,2,Rough,Long,4,4,4,4,3,4,5,4,Petits Bassets Griffons Vendeens,0.6720415558656867,0
+3,3,3,3,2,1,Curly,Medium,3,3,3,3,2,4,2,4,Borzois,0.8293168328567998,0
+5,5,3,3,2,5,Smooth,Short,3,3,5,4,3,3,1,3,St. Bernards,0.8907071962392388,1
+5,3,3,3,2,3,Double,Medium,3,3,5,3,3,3,3,3,Great Pyrenees,0.8741574806142207,1
+4,3,3,2,3,1,Double,Medium,4,3,4,3,4,3,3,3,Dandie Dinmont Terriers,0.5711349145483618,0
+5,5,3,3,2,2,Double,Medium,4,4,4,4,3,3,3,3,Tibetan Spaniels,0.7892602971779817,0
+5,3,3,3,2,1,Double,Short,3,3,5,3,2,3,3,4,Shiba Inu,0.9518288436407047,0
+5,3,3,1,1,1,Hairless,Short,3,4,3,4,4,4,3,4,Xoloitzcuintli,0.7549987421330475,1
+3,3,3,1,3,1,Double,Medium,3,3,3,3,5,3,3,3,Spaniels (American Water),0.6674588081515922,1
+5,3,3,3,3,1,Double,Long,3,3,3,3,3,3,3,3,Skye Terriers,0.5294337043625277,0
+3,3,3,3,4,3,Double,Medium,2,3,5,4,4,4,3,4,Black Russian Terriers,0.7987440638074104,1
+5,3,3,2,1,2,Smooth,Short,3,4,4,4,3,4,5,4,Miniature Bull Terriers,0.7943918844746368,0
+5,5,4,3,2,2,Double,Medium,3,3,3,4,3,5,5,4,Finnish Spitz,0.5244272553366242,0
+5,5,3,3,2,1,Silky,Medium,5,5,4,5,5,4,5,5,Papillons,0.9457542737444206,0
+5,3,3,4,2,2,Smooth,Short,4,4,4,4,4,4,3,4,Dalmatians,0.9376825674731823,1
+5,5,4,3,2,2,Double,Medium,1,3,3,4,5,4,3,4,Spaniels (Welsh Springer),0.8077998551143682,1
+5,3,3,2,4,2,Double,Long,3,4,5,5,4,3,4,4,Polish Lowland Sheepdogs,0.6302097640935871,0
+5,3,3,1,3,2,Curly,Medium,3,5,3,4,5,3,1,4,Spaniels (Irish Water),0.5969399210026902,0
+5,5,3,3,2,2,Smooth,Short,3,5,5,4,5,5,3,5,Weimaraners,0.9047498738203528,1
+5,3,5,3,1,2,Smooth,Short,3,3,5,4,3,5,3,4,Entlebucher Mountain Dogs,0.7487349805092797,0
+5,4,2,1,3,2,Wavy,Medium,3,3,5,3,3,4,4,4,Kerry Blue Terriers,0.8023254932554457,0
+5,3,5,3,2,1,Silky,Medium,3,3,3,4,3,3,2,3,Japanese Chin,0.8215529364458313,1
+5,5,4,3,2,2,Smooth,Short,4,4,4,4,5,5,3,5,Pointers (German Shorthaired),0.9580476337247336,0
+4,3,3,3,3,1,Wiry,Short,4,4,3,4,4,3,4,3,Brussels Griffons,0.8837064740841664,0
+5,5,4,3,2,2,Double,Medium,3,3,4,4,5,4,4,5,Icelandic Sheepdogs,0.7129429616169404,0
+5,5,3,1,4,2,Wavy,Medium,3,3,3,3,3,4,3,3,Soft Coated Wheaten Terriers,0.9339131632139932,0
+5,5,3,1,5,1,Silky,Long,5,4,5,5,4,4,4,4,Yorkshire Terriers,0.9655492518435498,0
+5,3,3,3,3,1,Double,Long,3,4,4,4,3,3,1,3,Pekingese,0.8910193168672029,1
+5,3,3,4,1,5,Smooth,Short,3,3,5,4,4,3,3,4,Dogues de Bordeaux,0.870407119473828,1
+5,5,4,3,2,2,Smooth,Medium,4,3,3,4,5,3,3,3,Spaniels (Field),0.6933087967684052,0
+5,5,3,2,3,2,Wiry,Medium,5,4,4,4,4,4,4,4,Fox Terriers (Wire),0.8712310260116001,0
+5,3,3,3,2,1,Double,Short,3,4,5,4,4,3,4,3,Schipperkes,0.794973805127374,1
+5,5,1,2,1,1,Wiry,Medium,3,3,5,4,3,3,3,4,Irish Terriers,0.7757644303295517,0
+3,3,3,1,1,2,Corded,Long,3,3,4,3,3,3,1,3,Bergamasco Sheepdogs,0.6298542564877923,0
+3,3,3,3,2,1,Smooth,Short,3,3,4,3,5,4,3,4,Belgian Malinois,0.905613183765833,0
+5,5,5,3,3,2,Silky,Medium,5,5,3,4,4,5,3,4,Setters (Irish),0.859411771399305,0
+3,3,3,3,2,1,Double,Medium,3,3,4,3,5,4,3,4,Belgian Tervuren,0.829066171201988,0
+5,5,3,3,1,2,Wiry,Short,5,5,3,4,5,5,3,5,Wirehaired Vizslas,0.7436610173281551,0
+5,5,5,2,4,1,Double,Long,5,4,3,4,4,3,1,3,Coton de Tulear,0.8520968705147736,0
+5,5,5,3,2,3,Smooth,Short,3,3,3,4,3,3,4,4,Redbone Coonhounds,0.7465505080231902,0
+5,5,4,4,2,1,Smooth,Short,5,5,3,5,4,3,1,3,Pugs,0.9304206268641964,0
+4,5,5,3,4,2,Double,Long,4,3,3,4,4,4,3,3,Spaniels (Cocker),0.906030108995634,0
+5,5,5,1,4,1,Double,Long,3,3,3,5,4,3,3,3,Shih Tzu,0.9679056920891718,0
+5,3,3,2,3,1,Silky,Long,4,4,5,4,4,3,4,3,Silky Terriers,0.8572624649929061,0
+5,3,3,2,1,1,Smooth,Short,3,3,1,3,3,4,3,5,Salukis,0.7278558100409315,0
+5,3,5,3,1,1,Smooth,Short,5,4,3,4,4,3,3,3,Italian Greyhounds,0.898893610118032,1
